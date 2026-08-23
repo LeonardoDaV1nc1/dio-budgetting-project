@@ -56,7 +56,7 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/leodvc82/dio-budgetting.git](https://github.com/LeonardoDaV1nc1/dio-budgetting.git)
+   git clone [https://github.com/LeonardoDaV1nc1/dio-budgetting.git](https://github.com/LeonardoDaV1nc1/dio-budgetting.git)
 
 Suba o banco de dados MySQL utilizando o Docker Compose na raiz do projeto:
 
